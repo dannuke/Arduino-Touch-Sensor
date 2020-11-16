@@ -1,5 +1,5 @@
 
-//RFRobot touch sensor with LED 
+//DFRobot touch sensor with LED 
 
 
 int ledPin = 13;                // Connect LED on pin 13, or use the onboard one
